@@ -85,13 +85,15 @@ z-index: 1;
 }
 
 @media (max-width: 1028px) {
-
+  
   .header-image
   {
 
     width: 30%;
 
   }
+  .H2
+  
 
   .test{
   position: relative;
@@ -117,12 +119,6 @@ z-index: 1;
     border-radius: 24px;
   margin-top: 300px;
 
-
-
-
-
-
-
-
+  }
 
   }

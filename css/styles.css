@@ -1,4 +1,23 @@
+h1 {
 
+
+  Font-family: "Alef";
+Font-style: Bold;
+font-size: 3.5rem;
+line-height: 150%;
+
+color: #086008;
+}
+
+p{
+  font-family: 'Alef';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 150%;
+  color: #086008;
+
+}
 .header-image
 {
 
